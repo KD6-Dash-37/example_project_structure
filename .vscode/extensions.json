@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "charliermarsh.ruff",
+        "ms-toolsai.jupyter",
+        "tamasfe.even-better-toml",
+        "aaron-bond.better-comments",
+        "github.vscode-github-actions",
+        "bierner.markdown-mermaid",
+        "alexcvzz.vscode-sqlite",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vscode-remote.remote-ssh-edit",
+        "ms-vscode-remote.remote-containers",
+        "ms-vscode.remote-explorer"
+    ]
+}
